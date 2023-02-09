@@ -5,7 +5,7 @@ public class Main {
 
         int i = 0;
         System.out.println(i);
-
+        System.out.println("I like github");
 
     }
 }
